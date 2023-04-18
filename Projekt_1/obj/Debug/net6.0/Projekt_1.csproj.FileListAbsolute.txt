@@ -1,0 +1,15 @@
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\bin\Debug\net6.0\Projekt_1.exe
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\bin\Debug\net6.0\Projekt_1.deps.json
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\bin\Debug\net6.0\Projekt_1.runtimeconfig.json
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\bin\Debug\net6.0\Projekt_1.dll
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\bin\Debug\net6.0\Projekt_1.pdb
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\Projekt_1.csproj.AssemblyReference.cache
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\Projekt_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\Projekt_1.AssemblyInfoInputs.cache
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\Projekt_1.AssemblyInfo.cs
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\Projekt_1.csproj.CoreCompileInputs.cache
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\Projekt_1.dll
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\refint\Projekt_1.dll
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\Projekt_1.pdb
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\Projekt_1.genruntimeconfig.cache
+C:\Users\LeonR\Documents\Обучение\0 Проекты, учебные\C#_study\Projekt_1\obj\Debug\net6.0\ref\Projekt_1.dll
